@@ -34,5 +34,5 @@ The dashboard provides insights into:
 ## 🛠 How to Use
 1. Clone the repository:
 
-   git clone https://github.com/<your-username>/ecommerce-powerbi-dashboard.git
+   git clone https://github.com/<your-username>?ecommerce-powerbi-dashboard.git
 
